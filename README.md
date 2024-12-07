@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ashishjoshi01
-- 👀 I’m interested in startups
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on my own startup idea if you want to know contact me
+- 👋 Hi, I’m @Ashishjoshi
+- 👀 I’m interested in machine learning and development
+- 🌱 I’m currently pursuing btech
+- 💞️ I’m looking for internship 
 - 📫 How to reach me reacch me at ashishjoshi7065@gmail.com
 
 <!---
