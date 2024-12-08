@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashishjoshi
 - 👀 I’m interested in machine learning and development
-- 🌱 I’m currently pursuing btech
+- 🌱 I’m currently pursuing btech cse specialisation in AI/ML
 - 💞️ I’m looking for internship 
 - 📫 How to reach me reacch me at ashishjoshi7065@gmail.com
 
